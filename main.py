@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 print("salom")
 
 # <<<<<<< HEAD
@@ -10,6 +10,6 @@ sayHello("Anvar")
 d=input('Input name:')
 print(d)
 # >>>>>>> origin/strang
-=======
+# =======
 print("aaaaaaaaaaaa")
->>>>>>> origin/staging
+# >>>>>>> origin/staging
