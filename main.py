@@ -1,4 +1,5 @@
 print("salom")
 
 d=input('Input name:')
-priint(d)
+print(d)
+print("I can't print this strings")
