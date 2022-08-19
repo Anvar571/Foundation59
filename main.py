@@ -1,2 +1,1 @@
-print("salom")
-print("Alik")
+print("aaaaaaaaaaaa")
