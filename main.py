@@ -1,6 +1,6 @@
 print("salom")
 
-<<<<<<< HEAD
+# <<<<<<< HEAD
 def sayHello(str):
     return f"salom str"
 
