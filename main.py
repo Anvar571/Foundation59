@@ -175,15 +175,3 @@ elif tanlov == "2":
                 print("bunday profil yo'q qaytadan kiriting: ")
         else:
             print("hatolik bor qaytadan kiriting:")
-elif tanlov == "3":
-    print()
-    user.show_users(None)
-elif tanlov == "4":
-    id = input("id kiriting: ")
-    print(user.getUserById(None,id))
-else:
-    print("o'zi 4 ta son berilgan ko'z bormi ibiiii")
-
-
-
-print('ozgartirish!!!')
