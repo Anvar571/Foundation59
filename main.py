@@ -183,3 +183,7 @@ elif tanlov == "4":
     print(user.getUserById(None,id))
 else:
     print("o'zi 4 ta son berilgan ko'z bormi ibiiii")
+
+
+
+print('ozgartirish!!!')
