@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(){
-    int d = 0;
-scanf("%d",&d);
-printf("%d",d);
+    int a=5, b=5;
+    printf("Yig'indi: %d", a+b);
 }
