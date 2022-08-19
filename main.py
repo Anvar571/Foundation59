@@ -1,4 +1,4 @@
 print("salom")
 
-d=input('Input name')
+d=input('Input name:')
 priint(d)
