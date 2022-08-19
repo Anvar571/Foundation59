@@ -7,3 +7,5 @@ sayHello("Anvar")
 
 
 print('my new branch fazliddin')
+
+print('anvar o\'zgartirdi')
